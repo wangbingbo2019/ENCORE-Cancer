@@ -49,7 +49,11 @@ Multi-Omics Peripheral and Core Regions of cancer by Bingbo Wang, Xianan Dong, J
 ## Supplementary material
 
 Table S3. Transcriptome differential expression (Transcriptome), DNA differential methylation (Methylation), Somatic mutation and Copy number variation (CNV) data of 15 cancers.
+
 Table S4. Human interactome contains 16,461 genes and 239,305 physical interactions.
+
 Table S5. The results of the CLines that reflect the wave mode of the connectivity between the perturbed genes corresponding to the change of the perturbation degree cutoffs. 
+
 Table S6. Details of genes in multi-omics periphery and core of 15 cancers.
+
 Table S7. 10 biological data sets used to show the enrichment performance of cancer in different biological profiles based on the multi-omics neighbourhood.
