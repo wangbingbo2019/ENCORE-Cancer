@@ -11,7 +11,7 @@ MOPC is a python program for getting the Multi-Omics Periphery and Core of cance
 
 ​       `cd MOPC`
 
-2. Prepare the environment for running the python program and install  the dependencies libraries of CCP which are listed in requirements.txt.
+2. Prepare the environment for running the python program and install  the dependencies libraries of MOPC which are listed in requirements.txt.
 
 3. Once you have prepared the environment and download the repository, you can run in the command line
 
