@@ -50,7 +50,7 @@ Multi-Omics Peripheral and Core Regions of cancer by Bingbo Wang, Xianan Dong, J
 
 Table S3. Transcriptome differential expression (Transcriptome), DNA differential methylation (Methylation), Somatic mutation and Copy number variation (CNV) data of 15 cancers.
 
-Table S4. Human interactome contains 16,461 genes and 239,305 physical interactions.
+Table S4. Human interactome contains 16,461 genes and 239,305 physical interactions. This network is provided by 'Menche J, Sharma A, Kitsak M, et al. Disease networks. Uncovering disease-disease relationships through the incomplete interactome. Science 2015; 347.'
 
 Table S5. The results of the CLines that reflect the wave mode of the connectivity between the perturbed genes corresponding to the change of the perturbation degree cutoffs. 
 
