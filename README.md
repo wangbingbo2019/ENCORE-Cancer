@@ -58,4 +58,4 @@ Table S6. Details of genes in multi-omics periphery and core of 15 cancers.
 
 Table S7. 10 biological data sets used to show the enrichment performance of cancer in different biological profiles based on the multi-omics neighbourhood.
 
-Table S8. The distribution of cancer neighbourhoods involved in KEGG pathways.
+Table S8. Enrichment results of cancer neighbourhoods in KEGG pathways.
